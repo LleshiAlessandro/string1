@@ -13,12 +13,14 @@
 }
 bool ruben_arrabbiato(string parola_palindroma)
 {
+    int r = parola_palindroma.Length-1 ;
     for (int i = 0; i < parola_palindroma.Length; i++)
     {
-        if (parola_palindroma[i] != parola_palindroma[parola_palindroma.Length - 1])
+        if (parola_palindroma[i] != parola_palindroma[r])
         {
             return false;
         }
+        r--;
     }
     return true;
 }
