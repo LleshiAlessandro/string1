@@ -1,0 +1,15 @@
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\bin\Debug\net8.0\string1.exe
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\bin\Debug\net8.0\string1.deps.json
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\bin\Debug\net8.0\string1.runtimeconfig.json
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\bin\Debug\net8.0\string1.dll
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\bin\Debug\net8.0\string1.pdb
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\string1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\string1.AssemblyInfoInputs.cache
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\string1.AssemblyInfo.cs
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\string1.csproj.CoreCompileInputs.cache
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\string1.sourcelink.json
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\string1.dll
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\refint\string1.dll
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\string1.pdb
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\string1.genruntimeconfig.cache
+C:\Users\lleshi.alessandro\Desktop\progetti\string1\string1\obj\Debug\net8.0\ref\string1.dll
